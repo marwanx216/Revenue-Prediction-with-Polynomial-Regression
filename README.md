@@ -28,9 +28,13 @@ The dataset (`assignment1dataset.csv`) contains various features related to busi
 📊 Visualizations
 1️⃣ Model Performance: MSE vs Polynomial Degree
 Shows how model accuracy changes with different polynomial degrees.
+![Figure_1](https://github.com/user-attachments/assets/74ea7d50-b523-4f31-922c-d7b5784a7a31)
+
+
 
 2️⃣ Correlation Heatmap
 Highlights the relationship between selected features and revenue.
+![Figure_2](https://github.com/user-attachments/assets/ca669285-ae13-44a0-a257-b82d09ddca5e)
 
 📌 Future Improvements
 🚀 Test on a larger dataset
